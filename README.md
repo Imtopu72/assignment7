@@ -10,5 +10,5 @@ Module 07 Assignment
 *Alert Message*
 <img src="screenshoot/Addtocart.png" alt="Screenshot 2" width="250" height="500">
 
-*Second Page*
+*Cart Page*
 <img src="screenshoot/cart.png" alt="Screenshot 3" width="250" height="500">
